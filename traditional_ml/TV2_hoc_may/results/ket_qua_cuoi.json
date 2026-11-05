@@ -1,0 +1,85 @@
+{
+ "du_lieu": {
+  "nguon": "file của nhóm: train_goc.csv, test_goc.csv",
+  "cach_chia_val": "theo nhom mau cau",
+  "val_co_mau_cau_trong_train": 0.0,
+  "test_co_mau_cau_trong_train": 0.092,
+  "train": 1806,
+  "val": 258,
+  "test": 566,
+  "ti_le_spam_train": 0.2796,
+  "ti_le_spam_val": 0.2791,
+  "ti_le_spam_test": 0.2367
+ },
+ "cau_hinh_chon": {
+  "model": "RandomForest",
+  "dac_trung": "TF-IDF + Regex",
+  "xu_ly_mat_can_bang": "class_weight=balanced",
+  "best_params": {
+   "clf__max_depth": "None",
+   "vec__txt__ngram_range": "(1, 1)"
+  },
+  "cv_f1_train": 0.9312,
+  "val_f1_mac_dinh": 0.973,
+  "val_f1_tinh_chinh": 0.9655,
+  "dung_ban_tinh_chinh": false
+ },
+ "nguong": {
+  "nguong_toi_uu_val": 0.55,
+  "val_f1_o_0.5": 0.973,
+  "val_f1_o_nguong_moi": 0.9796,
+  "nguong_dung": 0.55
+ },
+ "test_cuoi": {
+  "Precision": 0.7885,
+  "Recall": 0.9179,
+  "F1": 0.8483,
+  "ROC_AUC": 0.9713,
+  "PR_AUC": 0.9337,
+  "TN": 399,
+  "FP": 33,
+  "FN": 11,
+  "TP": 123
+ },
+ "test_theo_nhom_mau_cau": {
+  "mau_cau_da_thay_trong_train": {
+   "so_tin": 67,
+   "Precision": 0.9815,
+   "Recall": 1.0,
+   "F1": 0.9907,
+   "ROC_AUC": 0.9987,
+   "PR_AUC": 0.9997,
+   "TN": 13,
+   "FP": 1,
+   "FN": 0,
+   "TP": 53
+  },
+  "mau_cau_moi": {
+   "so_tin": 499,
+   "Precision": 0.6863,
+   "Recall": 0.8642,
+   "F1": 0.765,
+   "ROC_AUC": 0.9531,
+   "PR_AUC": 0.844,
+   "TN": 386,
+   "FP": 32,
+   "FN": 11,
+   "TP": 70
+  }
+ },
+ "cv5_train_val": {
+  "precision": "0.9398 ± 0.0190",
+  "recall": "0.9688 ± 0.0043",
+  "f1": "0.9540 ± 0.0111"
+ },
+ "thoi_gian_suy_luan": {
+  "batch_566_tin_s": 0.0862,
+  "1_tin_ms": 12.77
+ },
+ "phien_ban": {
+  "python": "3.12.3",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.6",
+  "numpy": "2.5.4"
+ }
+}

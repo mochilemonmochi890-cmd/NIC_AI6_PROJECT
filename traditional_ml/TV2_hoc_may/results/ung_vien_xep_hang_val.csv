@@ -1,0 +1,24 @@
+Model,Cach_xu_ly,Regex,Val_F1,Val_P
+RandomForest,class_weight=balanced,True,0.973,
+SVM,class_weight=balanced,True,0.966,
+RandomForest,class_weight=balanced,False,0.9536,0.9114
+RandomForest,SMOTE,False,0.9536,0.9114
+SVM,Không xử lý (mốc),False,0.9467,0.9103
+SVM,class_weight=balanced,False,0.9467,0.9103
+RandomForest,Nhân bản ngẫu nhiên,False,0.9467,0.9103
+RandomForest,Không xử lý (mốc),False,0.9459,0.9211
+LogReg,Nhân bản ngẫu nhiên,False,0.9412,0.8889
+LogReg,SMOTE,False,0.9412,0.8889
+SVM,Nhân bản ngẫu nhiên,False,0.9379,0.9315
+SVM,SMOTE,False,0.9315,0.9189
+LogReg,class_weight=balanced,False,0.9231,0.8571
+RandomForest,Giảm bớt lớp ham,False,0.9231,0.8571
+LogReg,class_weight=balanced,True,0.9221,
+LogReg,Không xử lý (mốc),False,0.913,0.9545
+SVM,Giảm bớt lớp ham,False,0.9114,0.8372
+LogReg,Giảm bớt lớp ham,False,0.8889,0.8
+NaiveBayes,SMOTE,False,0.8758,0.8272
+NaiveBayes,Nhân bản ngẫu nhiên,False,0.8667,0.8333
+NaiveBayes,Giảm bớt lớp ham,False,0.8553,0.8125
+NaiveBayes,Không xử lý (mốc),False,0.7967,0.9608
+NaiveBayes,Không xử lý (mốc),True,0.549,

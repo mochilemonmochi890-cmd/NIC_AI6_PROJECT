@@ -1,0 +1,56 @@
+{
+ "du_lieu": {
+  "nguon": "UCI SMS Spam Collection (tự chia 80/20, stratify, seed 42)",
+  "train": 3619,
+  "val": 517,
+  "test": 1035,
+  "ti_le_spam_train": 0.1263,
+  "ti_le_spam_val": 0.1257,
+  "ti_le_spam_test": 0.1266
+ },
+ "cau_hinh_chon": {
+  "model": "RandomForest",
+  "dac_trung": "TF-IDF + Regex",
+  "xu_ly_mat_can_bang": "class_weight=balanced",
+  "best_params": {
+   "clf__max_depth": "None",
+   "vec__txt__ngram_range": "(1, 2)"
+  },
+  "cv_f1_train": 0.9479,
+  "val_f1_mac_dinh": 0.9922,
+  "val_f1_tinh_chinh": 0.9922,
+  "dung_ban_tinh_chinh": true
+ },
+ "nguong": {
+  "nguong_toi_uu_val": 0.52,
+  "val_f1_o_0.5": 0.9922,
+  "val_f1_o_nguong_moi": 0.9922,
+  "nguong_dung": 0.5
+ },
+ "test_cuoi": {
+  "Precision": 1.0,
+  "Recall": 0.9237,
+  "F1": 0.9603,
+  "ROC_AUC": 0.9977,
+  "PR_AUC": 0.989,
+  "TN": 904,
+  "FP": 0,
+  "FN": 10,
+  "TP": 121
+ },
+ "cv5_train_val": {
+  "precision": "0.9857 ± 0.0124",
+  "recall": "0.9177 ± 0.0228",
+  "f1": "0.9504 ± 0.0155"
+ },
+ "thoi_gian_suy_luan": {
+  "batch_1035_tin_s": 0.0682,
+  "1_tin_ms": 9.57
+ },
+ "phien_ban": {
+  "python": "3.12.3",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.6",
+  "numpy": "2.5.4"
+ }
+}

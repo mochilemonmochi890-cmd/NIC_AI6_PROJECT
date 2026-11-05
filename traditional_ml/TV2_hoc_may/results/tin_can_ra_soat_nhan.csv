@@ -1,0 +1,26 @@
+﻿id,text,nhan_hien_tai,mo_hinh_nghi,score,ly_do,nhan_dung_theo_nhom (dien tay)
+365,"Chao ban, Tiki xin gui ban link download app: https://vntiki.onelink.me/Rmpi/d5b513e1",ham,spam,0.915,B: nhãn ham nhưng chứa từ khóa casino/vay/link + C: mô hình rất tự tin,
+431,"Thong bao tu VI VAY: Hom nay la ngay cuoi cung thanh toan HDCC. 
+Vui long thanh toan qua ung dung. 
+http://bit.ly/4wRyU1E",ham,spam,0.84,B: nhãn ham nhưng chứa từ khóa casino/vay/link + C: mô hình rất tự tin,
+426,"Thiết bị [NUMBER] đã bị mở khóa. 
+Liên hệ với tài khoản account@ezviz.com nếu có bất kỳ thắc mắc.",ham,spam,0.815,A: cùng khuôn tin nhưng có tin nhãn ngược + C: mô hình rất tự tin,
+421,"[Ngân hàng Techcombank] Thông báo. Ưu đãi có thời hạn!12.[POINT] thưởng thẻ tín dụng của bạn hết hạn hôm nay. Nhận ngay phần thưởng độc quyền của bạn:https:// 
+techcombank.shop/com.vn",ham,spam,0.79,A: cùng khuôn tin nhưng có tin nhãn ngược + B: nhãn ham nhưng chứa từ khóa casino/vay/link,
+418,"Moi Anh THANG tham gia khao sat Danh gia BHX tren App Store. 
+Nhan phieu mua hang [MONEY]. 
+Link Khao Sat: https:// 
+bachhoaxanh.com/s/bPhcSP",ham,spam,0.7525,B: nhãn ham nhưng chứa từ khóa casino/vay/link,
+318,Vietnamobile chuc Quy khach mot Valentine hanh phuc ben nguoi than yeu cua minh. Mon qua tu Vietnamobile: http://bit.ly/VNMHappyValentine,ham,spam,0.715,B: nhãn ham nhưng chứa từ khóa casino/vay/link,
+57,"Ahamove tang rieng ban ma HIAHA tiet kiem ngay [MONEY] cho 2 don hang dau tien, dat don ngay tai https://ahamove.onelink.me/fmLb/5huavlai",ham,spam,0.695,B: nhãn ham nhưng chứa từ khóa casino/vay/link,
+427,"Ban vao ngay pkwin https:// 
+m.[NUMBER].com/Account/Register? f=[NUMBER] dang ki tai khoan nhan code [MONEY], nap dau tang 100% trai nghiem casino, no hu hay nhat.",ham,spam,0.675,B: nhãn ham nhưng chứa từ khóa casino/vay/link,
+420,"Dang ky va nhan ngay 380.000, cong them uu dai hoan tien 200% cho khoan tien gui dau tien. 
+https://fg68888.com/?pid=[NUMBER]",ham,spam,0.6475,B: nhãn ham nhưng chứa từ khóa casino/vay/link,
+356,"Hi bạn! 
+Mình bên Bad Boy Sanctuary shop, bên mình đã lấy lại được fanpage facebook.Bạn like và theo dõi chúng mình theo đường link dưới hoặc nếu sợ đây là đường link virus lừa gạt thì search tên shop trên mục tìm kiếm facebook nhé <3 
+https://www.facebook.com/badboysanctuary24/ 
+Cảm ơn bạn trước đó đã mua hàng bên shop。",ham,spam,0.62,B: nhãn ham nhưng chứa từ khóa casino/vay/link,
+409,Ban co 1 don hang gui tu [NAME] dang duoc giao den ban voi so tien Od. Vui long theo doi don hang tai https://tracking.be.com.vn/X1YD1JTJ,ham,spam,0.613333,B: nhãn ham nhưng chứa từ khóa casino/vay/link,
+372,Chuc mung Quy khach so huu the KHTT VinID va huong uu dai 2%-10% tai hon [POINT] KD cua TD Vingroup. Tai APP VinID de nhan ma giam gia HOT https://id.vin/W3V,ham,spam,0.585,B: nhãn ham nhưng chứa từ khóa casino/vay/link,
+525,"[QC]QK du dieu kien vay tieu dung den [MONEY] VND, ls uu dai tu EASY CREDIT (EVN Finance). Soan Y gui [NUMBER] de DK vay va dong y cho MobiFone chia se tt thue bao de ho tro tham dinh khoan vay.Tu choi quang cao tu EASY CREDIT, soan TC EASY CREDIT gui [NUMBER].",spam,ham,0.13,C: mô hình rất tự tin,

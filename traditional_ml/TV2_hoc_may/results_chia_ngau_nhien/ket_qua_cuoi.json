@@ -1,0 +1,56 @@
+{
+ "du_lieu": {
+  "nguon": "file của nhóm: train_goc.csv, test_goc.csv",
+  "train": 1806,
+  "val": 258,
+  "test": 566,
+  "ti_le_spam_train": 0.2796,
+  "ti_le_spam_val": 0.2791,
+  "ti_le_spam_test": 0.2367
+ },
+ "cau_hinh_chon": {
+  "model": "RandomForest",
+  "dac_trung": "TF-IDF + Regex",
+  "xu_ly_mat_can_bang": "class_weight=balanced",
+  "best_params": {
+   "clf__max_depth": "None",
+   "vec__txt__ngram_range": "(1, 2)"
+  },
+  "cv_f1_train": 0.9516,
+  "val_f1_mac_dinh": 0.9524,
+  "val_f1_tinh_chinh": 0.9524,
+  "dung_ban_tinh_chinh": true
+ },
+ "nguong": {
+  "nguong_toi_uu_val": 0.53,
+  "val_f1_o_0.5": 0.9524,
+  "val_f1_o_nguong_moi": 0.9655,
+  "nguong_dung": 0.53
+ },
+ "test_cuoi": {
+  "Precision": 0.7235,
+  "Recall": 0.9179,
+  "F1": 0.8092,
+  "ROC_AUC": 0.9708,
+  "PR_AUC": 0.9331,
+  "TN": 385,
+  "FP": 47,
+  "FN": 11,
+  "TP": 123
+ },
+ "cv5_train_val": {
+  "precision": "0.9395 ± 0.0156",
+  "recall": "0.9654 ± 0.0122",
+  "f1": "0.9522 ± 0.0105"
+ },
+ "thoi_gian_suy_luan": {
+  "batch_566_tin_s": 0.0744,
+  "1_tin_ms": 11.76
+ },
+ "phien_ban": {
+  "python": "3.12.3",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.6",
+  "numpy": "2.5.4"
+ }
+}

@@ -1,0 +1,86 @@
+﻿id,text,y_true,y_pred,score,loai_loi
+555,"ACB Online: Thong bao gan day tai 
+khoan ngan hang hay bi toi pham cong nghe danh cap de rua tien,vui long khac hang cap nhap lai thong tai khoan de bao mat, neu khong cap nhap lai tai khoan cua ban se bi khoa trong [TIME]. Thong tin chi tiet 
+https://acb-online.cc",1,0,0.52,FN: spam bị lọt
+519,"Chào anh/chị. Em là nhân viên tư vấn KUBET – trang game thể thao, giải trí, casino uy tín hàng đầu châu Á với rất nhiều thể loại như bóng đá, xổ số, xóc đĩa, các game slot, quay hũ,... Hiện tại bên em đang có chương trình khuyến mãi lớn lên tới 50% giá trị nạp cho hội viên đăng ký mới. Nếu anh/chị có hứng thú tham gia tìm hiểu vui lòng bấm vào link dưới đây: ku456.netMọi thắc mắc cần hỗ trợ anh/chị vui lòng liên hệ tới zalo số: [NUMBER]Hoặc telegram: @thanhchavis1992Xin lỗi nếu đã làm phiền anh/chị!Trả lời số 1, click vào đường link để biết thêm chi tiết.",1,0,0.49,FN: spam bị lọt
+525,"[QC]QK du dieu kien vay tieu dung den [MONEY] VND, ls uu dai tu EASY CREDIT (EVN Finance). Soan Y gui [NUMBER] de DK vay va dong y cho MobiFone chia se tt thue bao de ho tro tham dinh khoan vay.Tu choi quang cao tu EASY CREDIT, soan TC EASY CREDIT gui [NUMBER].",1,0,0.125,FN: spam bị lọt
+526,Anh Chi Oi: (rKYVFnOi). E Nhan [NAME] l/Xe. CMND. Can Cuoc. Bang Dai Hoc. THPT. Cao Dang. Nhan Hang thu Tien. E: [NUMBER]. Xin cam on!,1,0,0.405,FN: spam bị lọt
+531,"PHONG PHAP LY tu UBND BEN TRE Chung toi tiep nhan ho so vi pham cua Ong/Ba [NAME] sn [DATE] tu ben cho vay. Yeu cau ong ba chuan bi hinh chan dung 3x4, CCCD gan chip co photo, co mat tai dia chi ho khau de co quan chuc nang gui don trieu tap dan su trong [TIME] tiep theo. De tranh phat sinh rui ro de nghi thanh toan GAP.",1,0,0.43,FN: spam bị lọt
+551,"Chung toi da nhieu lan co gang lien lac voi ban! Ban co [MONEY] + 59 vong quay, thoi han chi con [TIME]. https://a8858.com/index?id=[NUMBER]",1,0,0.408,FN: spam bị lọt
+533,"AN NINH NGAN HANG Thong bao: Can cu vao hop dong tra gop cua Ong/Ba: [NAME] Sinh ngay [DATE] co tinh khong hop tac. Ho so Ong/Ba chinh thuc bi lap bien ban thanh ly truoc han va ban giao cho BO [NAME] ΝΟ XAU truc tiep xu ly trong vong [TIME]. Vui long thanh toan GAP trong ngay. Sau thoi gian tren van chua hoan tat khoan vay, hop dong chinh thuc BI NIEM PHONG, TIEN HANH THANH LY va BOI THUONG. Dua theo can cu ghi nhan CHIEM DOAT TAI SAN NGAN HANG se tien hanh xu ly dung quy dinh phap luat.Tran trong.!",1,0,0.275,FN: spam bị lọt
+534,Qua cong tac dieu tra tim kiem tai dia phuong chung toi da co du dieu kien va co so de nho Cong An vao cuoc ho tro dieu tra trong qua trinh lien he Ong/Ba [NAME] [DATE] va nguoi than lien tuc/tat nguon khoa may tron tranh nghia vu thanh toan. Yeu cau Ong/Ba cung nhung nguoi lien quan khong roi khoi dia phuong BEN TRE trong vong [TIME] (tinh tu khi nhan duoc thong bao) de lam viec truc tiep voi dai dien TO CHUC TIN DUNG ve viec cham dut va boi thuong cho ben NH. Tran trong!.,1,0,0.355,FN: spam bị lọt
+535,PHONG DIEU TRA TIN DUNG Canh Bao. Ho so tin dung [NAME] [DATE] co dau hieu [NAME] -CHIEM DOAT TAI SAN theo dieu 175 BLHS_100/[NUMBER]/QH13. De nghi ong ba thanh toan GAP so no qua han. Sau thoi gian tren chung toi se hoan tat thu tuc phap ly chuyen cho Co Quan Chuc Nang dieu tra xu ly. Tran trong!,1,0,0.33,FN: spam bị lọt
+539,"TB: Anh/Chị [NAME] khong tu giac thanh toan [NUMBER].
+sau [TIME] se lien he ban be, danh ba, dong nghiep. Moi anh huong danh du, uy tin tu chiu
+Link Thanh toán: http://i.dljj.shop/M6xLSV",1,0,0.475,FN: spam bị lọt
+532,"CANH CAO LAN CUOI Can Cu Theo BO HINH SU Khoan 1, Dieu 139-141 dua tren Quyet Dinh [NUMBER]/[NUMBER]-TTCP ""HANH VI LUA DAO CHIEM DOAT TAI SAN"" Doi tuong [NAME] [DATE]. CO TINH TRI HOAN keo dai thoi gian THANH TOAN NO.
+Truoc [TIME] ngay hom nay van chua ra xu ly khoan vay, Ngan Hang chinh thuc gui HO SO ben Thu Ba Xu Ly.",1,0,0.28,FN: spam bị lọt
+369,A ơi cái đơn hàng [NUMBER] của e a giao giúp e buổi chiều nha a tầm [TIME] trở lên càng tốt ạ,0,1,0.64,FP: tin tốt bị chặn nhầm
+376,"Theo dự báo, tối nay Bão số 9 sẽ vào TP.HCM. Đề nghị mọi người hạn chế đi lại ngoài đường trừ trường hợp khẩn cấp! Tonight, Typhoon No.9 hit to Ho Chi Minh City. People do not go out in case of emergency!",0,1,0.685,FP: tin tốt bị chặn nhầm
+377,"Bão số 9 có khả năng ảnh hưởng đến TP.HCM, mọi người theo dõi để phòng tránh! Typhoon number 9 can affect HCM city, people should follow to have prevention!",0,1,0.765,FP: tin tốt bị chặn nhầm
+379,"(ND) TTGS: Fan dan ngan ngam voi ""Next Top Hi Lap"" vi ""nhay gi ma lam the!"". Moi ban truy cap website http://tvshow.mobifone.vn hoac http://tvshow.giaitri24h.com.vn de xem thong tin chi tiet.",0,1,0.59,FP: tin tốt bị chặn nhầm
+380,"(ND) TTGS: Irene (Red Velvet) hoang hot bo chay khi thay phien ban... co rau cua minh tai ""Running Man"". Moi ban truy cap website http://tvshow.mobifone.vn hoac http://tvshow.giaitri24h.com.vn de xem thong tin chi tiet.",0,1,0.53,FP: tin tốt bị chặn nhầm
+381,(ND) TTGS: Choang voi ngoai hinh mum mim cua em trai Dara khi tro lai tren show thuc te!. Moi ban truy cap website http://tvshow.mobifone.vn hoac http://tvshow.giaitri24h.com.vn de xem thong tin chi tiet.,0,1,0.545,FP: tin tốt bị chặn nhầm
+382,(ND) TTGS: Tran Thanh roi nuoc mat ve cau chuyen cua anh chang dong tinh mat di nguoi ban doi truoc ngay cuoi. Moi ban truy cap website http://tvshow.mobifone.vn hoac http://tvshow.giaitri24h.com.vn de xem thong tin chi tiet.,0,1,0.555,FP: tin tốt bị chặn nhầm
+386,Quý khách đã tham gia CTKM của dịch vụ Giải Trí Việt và được tặng [MONEY] vào tài khoản chính. Xin cảm ơn,0,1,0.855,FP: tin tốt bị chặn nhầm
+409,Ban co 1 don hang gui tu [NAME] dang duoc giao den ban voi so tien Od. Vui long theo doi don hang tai https://tracking.be.com.vn/X1YD1JTJ,0,1,0.705,FP: tin tốt bị chặn nhầm
+418,"Moi Anh THANG tham gia khao sat Danh gia BHX tren App Store. 
+Nhan phieu mua hang [MONEY]. 
+Link Khao Sat: https:// 
+bachhoaxanh.com/s/bPhcSP",0,1,0.81,FP: tin tốt bị chặn nhầm
+420,"Dang ky va nhan ngay 380.000, cong them uu dai hoan tien 200% cho khoan tien gui dau tien. 
+https://fg68888.com/?pid=[NUMBER]",0,1,0.595,FP: tin tốt bị chặn nhầm
+365,"Chao ban, Tiki xin gui ban link download app: https://vntiki.onelink.me/Rmpi/d5b513e1",0,1,0.865,FP: tin tốt bị chặn nhầm
+426,"Thiết bị [NUMBER] đã bị mở khóa. 
+Liên hệ với tài khoản account@ezviz.com nếu có bất kỳ thắc mắc.",0,1,0.76,FP: tin tốt bị chặn nhầm
+427,"Ban vao ngay pkwin https:// 
+m.[NUMBER].com/Account/Register? f=[NUMBER] dang ki tai khoan nhan code [MONEY], nap dau tang 100% trai nghiem casino, no hu hay nhat.",0,1,0.696667,FP: tin tốt bị chặn nhầm
+428,"Dạ anh ơi, em gửi thông tin lúc nào anh có người quen cần lắp mạng giới thiệu em với, chốt xong em gửi tặng 1 tháng cước cho nhà mình hoặc [MONEY] tiền mặt, nhà anh cần lắp thì em sẽ chiết khấu vào chi phí nhà mình luôn ạ. sdt em [NUMBER] đây nếu có hoặc cần thì liên hệ em ngay nhé, em cảm ơn ạ! [NUMBER]",0,1,0.54,FP: tin tốt bị chặn nhầm
+431,"Thong bao tu VI VAY: Hom nay la ngay cuoi cung thanh toan HDCC. 
+Vui long thanh toan qua ung dung. 
+http://bit.ly/4wRyU1E",0,1,0.76,FP: tin tốt bị chặn nhầm
+406,"[TB] Ứng dụng Tuyên giáo và Dân vận – kênh thông tin chính thống của Đảng; chủ trương, chính sách được cập nhật nhanh, giải thích dễ hiểu; thư viện số phong phú; hỏi – đáp, tra cứu thuận tiện; lắng nghe, phản hồi ý kiến Nhân dân. Mời Nhân dân tham gia sửdụng: 
+https://tgdv.vtscloud.vn/installation",0,1,0.65,FP: tin tốt bị chặn nhầm
+421,"[Ngân hàng Techcombank] Thông báo. Ưu đãi có thời hạn!12.[POINT] thưởng thẻ tín dụng của bạn hết hạn hôm nay. Nhận ngay phần thưởng độc quyền của bạn:https:// 
+techcombank.shop/com.vn",0,1,0.88,FP: tin tốt bị chặn nhầm
+0,"Để phòng ngừa bệnh tay chân miệng, người chăm sóc trẻ và trẻ cần rửa tay thường xuyên bằng xà phòng; Lau sạch các bề mặt, vật dụng tiếp xúc hàng ngày như đồ chơi, bàn ghế, sàn nhà... Đưa trẻ đi khám ngay tại các cơ sở y tế gần nhất khi trẻ có các biểu hiện sốt, nổi hồng ban bóng nước ở lòng bàn tay, bàn chân, loét miệng, giật mình.",0,1,0.55,FP: tin tốt bị chặn nhầm
+356,"Hi bạn! 
+Mình bên Bad Boy Sanctuary shop, bên mình đã lấy lại được fanpage facebook.Bạn like và theo dõi chúng mình theo đường link dưới hoặc nếu sợ đây là đường link virus lừa gạt thì search tên shop trên mục tìm kiếm facebook nhé <3 
+https://www.facebook.com/badboysanctuary24/ 
+Cảm ơn bạn trước đó đã mua hàng bên shop。",0,1,0.645,FP: tin tốt bị chặn nhầm
+12,Công ty điện lực thủ đức đã tiếp nhận thông tin của quý khách ! ĐL đã cử a Hoàng khảo sát với số ĐT :[NUMBER] khảo sát ngày [DATE],0,1,0.695,FP: tin tốt bị chặn nhầm
+16,"Trẻ em cần được học bơi và học kỹ năng an toàn để phòng, chống đuối nước.",0,1,0.67,FP: tin tốt bị chặn nhầm
+20,"Phòng, chống ma túy quyết liệt, hiệu quả, nâng cao trách nhiệm, chủ động phối hợp - Vì một cộng đồng sạch ma túy.",0,1,0.54,FP: tin tốt bị chặn nhầm
+22,"đơn 51/9 đường 475 a giao giùm e [TIME] đc kh a
+Có đon od em bỏ vô nhà có j lây giúp em nha a tài
+dạ oke e cảm ơn a",0,1,0.695,FP: tin tốt bị chặn nhầm
+41,"Mung sinh nhat 15 tuoi Lotte Cinema tang ban 2 code xem phim [MONEY] chi voi [MONEY].Dung tai rap tu 10-13/4,17-20/4,24-27/4. Code: 1602300002820093 va 1602300003125533.",0,1,0.57,FP: tin tốt bị chặn nhầm
+44,QK vua tich [POINT] ANGELA 60v. Tich [POINT] san pham truoc 31/12/23 de doi 1 san pham 15V. Tra cuu qua tang tai https://ecogreen.com.vn hoac goi [NUMBER],0,1,0.595,FP: tin tốt bị chặn nhầm
+57,"Ahamove tang rieng ban ma HIAHA tiet kiem ngay [MONEY] cho 2 don hang dau tien, dat don ngay tai https://ahamove.onelink.me/fmLb/5huavlai",0,1,0.765,FP: tin tốt bị chặn nhầm
+68,"Hưởng ứng Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam 09/11, toàn dân nâng cao ý thức tôn trọng, tuân theo Hiến pháp và pháp luật.",0,1,0.63,FP: tin tốt bị chặn nhầm
+70,"The Manson thong bao, don hang: 221007R4FP4BRJ da duoc kich hoat bao hanh dien tu. Chuc quy khach co giay phut trai nghiem that tot san pham. Chi tiet lien he: https://themanson.vn/",0,1,0.575,FP: tin tốt bị chặn nhầm
+73,"Tôi đã nhận được đơn hàng spxvn[NUMBER]a
+Vào lúc 13h10 ngày 6 thang 10 . Đồng ý gở khieu nai",0,1,0.73,FP: tin tốt bị chặn nhầm
+93,<#> Ma OTP BE GROUP cua ban la 6598 Oye0OKTj+Xw,0,1,0.655,FP: tin tốt bị chặn nhầm
+103,(TPBank) Ban da gui yeu cau kich hoat eToken+. Ma kich hoat se duoc gui ve tu TPBank,0,1,0.66,FP: tin tốt bị chặn nhầm
+124,"Hãy gọi tổng đài Quốc Gia Bảo Vệ Trẻ Em 111 để nhận tư vấn, hỗ trợ chăm sóc trẻ em đang phải cách ly do Covid - 19",0,1,0.715,FP: tin tốt bị chặn nhầm
+125,Người lớn hãy nhắc trẻ em hàng ngày về nguy cơ đuối nước. Cho trẻ em học bơi để ngừa đuối nước!,0,1,0.7,FP: tin tốt bị chặn nhầm
+126,"Pháp luật nghiêm cấm mọi hành vi xâm hại trẻ em. Hãy gọi ngay 111 để thông báo khi nghi vấn, phát hiện dấu hiệu, vụ việc xâm hại trẻ em!",0,1,0.755,FP: tin tốt bị chặn nhầm
+136,"Tầm [TIME] anh giao lại giùm em được không anh h nhà em khôg có ng nhận anh ơi
+Ok. Có người nhà a hẹn [TIME] ạ",0,1,0.785,FP: tin tốt bị chặn nhầm
+185,Chuc mung ban da mua dung san pham cua thuong hieu APESTOMEN. De biet them thong tin chi tiet quy khach vui long truy cap website www.apestomen.com.vn,0,1,0.555,FP: tin tốt bị chặn nhầm
+283,"Em ơi, sáng giờ gọi e 2 lần để giao hàng r. C bên Dr Mai trị mụn",0,1,0.765,FP: tin tốt bị chặn nhầm
+301,"Thực hiện phương châm ""tạm dừng đến trường, không dừng học"", Bộ GD&ĐT đã công bố tinh giản chương trình học kỳ 2 và hướng dẫn dạy/học qua internet, trên truyền hình. Mỗi thầy cô, gia đình và toàn xã hội hãy chung tay hỗ trợ, động viên, giúp đỡ học sinh học qua internet, truyền hình đảm bảo thuận lợi, chất lượng, hiệu quả.",0,1,0.555,FP: tin tốt bị chặn nhầm
+318,Vietnamobile chuc Quy khach mot Valentine hanh phuc ben nguoi than yeu cua minh. Mon qua tu Vietnamobile: http://bit.ly/VNMHappyValentine,0,1,0.73,FP: tin tốt bị chặn nhầm
+326,"Loại thẻ: GARENA 500.000 - Số serial: [NUMBER] - Mã nạp thẻ: 5786876234757772 
+Loại thẻ: GARENA 500.000 - Số serial: [NUMBER] - Mã nạp thẻ: 6239085456853848",0,1,0.56,FP: tin tốt bị chặn nhầm
+329,Shop ơi em có đặt đơn hàng #[NUMBER] tầm 5 ngày rồi mà chưa thấy giao đến shop vui lòng kiểm tra giúp em với ạ,0,1,0.79,FP: tin tốt bị chặn nhầm
+331,"Mình gọi từ shop Nowsaigon để xác nhận đơn hàng. Bạn kiểm tra mail xem đơn hàng đã đặt và các thông tin của bạn đã chính xác chưa ạ? Bạn phản hồi qua tin nhắn này luôn giúp mình (không trả lời qua mail) để đơn hàng được gửi đi nhanh chóng ạ.
+Nếu bạn không phản hồi, sau 2 ngày đơn hàng bị huỷ
+Cảm ơn bạn",0,1,0.635,FP: tin tốt bị chặn nhầm
+332,"Bạn chú ý điện thoại để shipper giao hàng ạ
+Lần tới nếu k thấy bên mình gọi hoặc nhắn tin xác nhận thì bạn chủ động nhắn qua fb/ig giúp shop ạ
+Đơn hàng của bạn được gửi đi rồi ,2-4 ngày nữa bạn nhận dc hàng bạn nhé",0,1,0.675,FP: tin tốt bị chặn nhầm
+348,Yeu cau khong hop le. Chuong trinh khong ap dung cho goi cuoc nay. Chi tiet lien he 789.,0,1,0.53,FP: tin tốt bị chặn nhầm
+357,"Hãy lật úp các dụng cụ chứa nước, thu gom, loại bỏ các vật phế thải nơi muỗi đẻ trứng để phòng bệnh sốt xuất huyết.",0,1,0.725,FP: tin tốt bị chặn nhầm
+364,Mat khau dang nhap Tiki cua ban la: vM9KUy. Vui long cap nhat lai mat khau sau khi dang nhap.,0,1,0.675,FP: tin tốt bị chặn nhầm

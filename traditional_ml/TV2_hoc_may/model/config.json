@@ -1,0 +1,9 @@
+{
+ "nguong": 0.55,
+ "nhan": {
+  "0": "ham",
+  "1": "spam"
+ },
+ "input": "list[str]",
+ "goi": "model.predict_proba(texts)[:,1] >= nguong -> spam"
+}

@@ -1,0 +1,5 @@
+# Chỉ để NẠP model.joblib và dự đoán (API của TV4). Không cần imbalanced-learn, matplotlib, seaborn.
+scikit-learn==1.9.1
+numpy>=2.0
+scipy
+joblib
